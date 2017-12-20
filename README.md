@@ -1,1 +1,1 @@
-# Paintings-Classifierss
+# Paintings-Classifiers 
